@@ -1,0 +1,88 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "960409ed-af6d-4104-989a-c0c584f670de": {
+        "id": "960409ed-af6d-4104-989a-c0c584f670de",
+        "parent": null,
+        "name": "test17-3-2020-lonindutoky.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "test17-3-2020-lonindutoky.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs8",
+          "timeout": 60,
+          "memory": 128,
+          "triggerType": 0
+        },
+        "triggers": [
+          {
+            "resourceName": "http-trigger",
+            "config": {}
+          }
+        ]
+      },
+      "38ada2b0-216c-41b3-a74d-2848d3fb4e5b": {
+        "id": "38ada2b0-216c-41b3-a74d-2848d3fb4e5b",
+        "parent": null,
+        "name": "index.js",
+        "type": "JS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "index.js"
+      },
+      "5da948c7-4ca6-430e-b8a1-50f05ae287bd": {
+        "id": "5da948c7-4ca6-430e-b8a1-50f05ae287bd",
+        "parent": null,
+        "name": "main.py",
+        "type": "PYTHON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "main.py"
+      }
+    },
+    "openFiles": [
+      "960409ed-af6d-4104-989a-c0c584f670de"
+    ],
+    "currentFileId": "960409ed-af6d-4104-989a-c0c584f670de",
+    "resources": {
+      "http-trigger": {
+        "name": "http-trigger",
+        "type": "http-trigger",
+        "config": {}
+      }
+    },
+    "customTemplate": {
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "test17-3-2020-lonindutoky",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "asia-northeast1",
+    "platform": "GCP",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1584425690862
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "test17-3-2020-lonindutoky",
+      "url": "https://github.com/Indunil1992/test17-3-2020-lonindutoky"
+    }
+  }
+}
